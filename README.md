@@ -30,7 +30,7 @@ including potential advantages and drawbacks.
 
 <p align="center">
   <img src="img/UserInterface.png"
-    width="70%" 
+    width="100%" 
     style="max-width: 100%; height: auto;"
   />
 </p>
@@ -41,7 +41,7 @@ followed by choosing different inverse kinematics solvers for motion cleanup on 
 
 <p align="center">
   <img src="img/retarget.png"
-    width="50%" 
+    width="100%" 
     style="max-width: 100%; height: auto;"
   />
 </p>
