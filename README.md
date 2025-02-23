@@ -7,8 +7,6 @@ CrossForge
 
 This repository contains the submitted version of my Bachelor's thesis. (main.pdf)
 
-This work is currently under review by supervisors and has not yet been defended.
-
 Abstract:
 
 ```
